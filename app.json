@@ -4,15 +4,15 @@
   "repository": "https://github.com/line/line-login-starter",
   "env": {
     "LINECORP_PLATFORM_CHANNEL_CHANNELID": {
-      "description": "Channel ID",
+      "description": "1582192389",
       "required": true
     },
     "LINECORP_PLATFORM_CHANNEL_CHANNELSECRET": {
-      "description": "Channel secret",
+      "description": "9f292b523d891c3feafef8be35a4bc90",
       "required": true
     },
     "LINECORP_PLATFORM_CHANNEL_CALLBACKURL": {
-      "description": "Callback URL",
+      "description": "https://codedsir.herokuapp.com/auth",
       "required": true
     }
   }
